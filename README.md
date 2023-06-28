@@ -9,3 +9,6 @@ Kindly find the links of all the attached github repos.
 - [Assessment 3](https://github.com/Pranshu5927/SmartInternz-Assessment3)
 - [Project](https://github.com/Pranshu5927/Flight-Price-Prediction)
 
+## Project Demo Video
+
+- [Demo](https://drive.google.com/file/d/1JSKcqUNCJT6A7uIXNDVUIQzLw8DEANz7/view?usp=drivesdk)
